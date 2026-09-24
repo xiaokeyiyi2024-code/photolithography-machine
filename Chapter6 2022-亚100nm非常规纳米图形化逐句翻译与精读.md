@@ -1,4 +1,4 @@
-# 第 6 篇辅助读本：亚 100 nm 非常规纳米图形化
+#Chapter6 第 6 篇辅助读本：亚 100 nm 非常规纳米图形化
 
 > 原文：Mengmeng Guo 等，*Advanced unconventional techniques for sub-100 nm nanopatterning*，InfoMat，2022，DOI: 10.1002/inf2.12323。  
 > 定位：这是一篇**综述**。它不只讲一种光刻，而是回答“为了做出小于 100 nm 的结构，人们有哪些路线、各自靠什么原理、适合什么场景”。  
