@@ -1,4 +1,4 @@
-# 位移塔尔博特光刻分辨率极限：逐句翻译与精读
+# Chapter4 位移塔尔博特光刻分辨率极限：逐句翻译与精读
 
 **原文**：P. J. P. Chausse, E. D. Le Boulbar, S. D. Lis, P. A. Shields. *Understanding resolution limit of displacement Talbot lithography*. *Optics Express*, 2019, 27(5): 5918–5930.  
 **阅读定位**：上一篇 Solak 2011 说明“DTL 为什么不怕初始间隙”；本篇进一步回答“DTL 最小能做多小，以及掩模怎样设计”。
