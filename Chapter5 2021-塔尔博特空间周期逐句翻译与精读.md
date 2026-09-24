@@ -1,4 +1,4 @@
-# 塔尔博特效应中的空间周期：逐句翻译与精读
+# Chapter5 塔尔博特效应中的空间周期：逐句翻译与精读
 
 **原文**：Pierre Chausse, Philip Shields. *Spatial periodicities inside the Talbot effect: understanding, control and applications for lithography*. *Optics Express*, 2021, 29(17): 27628–27639。  
 **阅读定位**：本篇将 2019 年“掩模参数影响分辨率”的结论推进到衍射级次层面：为什么大周期掩模会出现细碎结构，以及怎样通过掩模拓扑把它们消掉。
